@@ -1,8 +1,8 @@
 ![Markdown preferences pane](https://www.bitlat.com/blog/wp-content/uploads/2017/10/Bitcoin.png)
 
-**Donativos BTC**: 1DfuV4LVeZ2KsqFU98JP337DqNaq2LtWGK 
-**Donativos ETH**: 0x6b6a5A128b1d7b1FBC60adBC75d924d110a16E6F
-**Donativos LTC**: LMNDQJVdHFnBh7r2BgrzbrV5eKaC5n9M1x
+#### **Donativos BTC**: 1DfuV4LVeZ2KsqFU98JP337DqNaq2LtWGK 
+#### **Donativos ETH**: 0x6b6a5A128b1d7b1FBC60adBC75d924d110a16E6F
+#### **Donativos LTC**: LMNDQJVdHFnBh7r2BgrzbrV5eKaC5n9M1x
 
 ## Exchanges Bitcoin
 
