@@ -9,7 +9,7 @@ Para comprar Bitcoins, actualmente hay varias alternativas. Estas webs venden bi
 Es la mas popular. En Coinbase puedes comprar Bitcoin, Litecoin y Ethereum. Antes de comprar deberás identificarte subiendo una foto de un carnet de identidad. Se puede comprar por transferencia bancaria y pago con visa. Coinbase tiene una aplicación movil en la que puedes realizar operaciones y ver tu saldo actual.
 
 > ##### Link: <http://bit.ly/2AERaQc>
->  **NOTA:** Link de referido, si compraras 100€ te dan 8€ mas en BTC.
+>  **NOTA:** Link de referido, si compras 100€ te dan 8€ mas en BTC.
 > 
 > **iOS:** <http://apple.co/2y81MEw>
 > 
@@ -22,7 +22,7 @@ Es la segunda opción que hay actualmente, la web no es tan user-friendly y solo
 
 > ##### Link: <http://bit.ly/2jvSBsV>
 
-### Tabla de comisiones (Dec/2017)
+### Tabla de comisiones (Dec/2017)
 
 Tipo	    | 		Coinbase    | Kraken
 ------------- | ------------- | -------------
@@ -64,26 +64,27 @@ In progress...
 #### CoinMarketCap:
 La biblia de las cryptomonedas. Listado con casi todas las cryptomonedas que existen, con su cotización e información de los proyectos y en qué exchanges comprarlas.
 
-> ####Link: <https://coinmarketcap.com>
+> #### Link: <https://coinmarketcap.com>
 
 #### CoinDesk
 
-> ####Link: <https://www.coindesk.com>
+> #### Link: <https://www.coindesk.com>
 
 
 #### The Coin Telegraph
 
-> ####Link: <https://cointelegraph.com>
+> #### Link: <https://cointelegraph.com>
 
 #### Criptonoticias
 
-> ####Link: <https://www.criptonoticias.com>
+> #### Link: <https://www.criptonoticias.com>
 
 ## Grupos de telegram
 
-* **BMC(ESP)**: 
-* **BMC(ENG)**: 
-* **Tokens chat**: 
+* **BMC(ESP)**: <https://t.me/joinchat/EVc4eEHHblJLhLdiDDREGg>
+* **BMC(ENG)**: <https://t.me/joinchat/AAAAAD_aw-EA7WBdPGEQMg>
+* **Tokens chat**: <https://t.me/joinchat/CkG9pUI7PW4YVFD_Ql9K0A>
+* **McleroTV*: <https://t.me/mclerotv>
 
 ## Glosario
 
