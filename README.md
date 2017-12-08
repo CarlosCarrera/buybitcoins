@@ -49,18 +49,17 @@ Exchange chino, está ganando mucha popularidad ya que las monedas que va añadi
 
 > ##### Link: <http://bit.ly/2AYMdEl>
 
-### Binance
+### Bitfinex
 
-Exchange chino, está ganando mucha popularidad ya que las cryptomonedas chinas que va añadiendo suelen tener un rendimiento muy bueno.
+Exchange con mucho volumen y con aplicación para Android e iOS.
 
-> ##### Link: <http://bit.ly/2AYMdEl>
+> ##### Link: <http://bit.ly/2A3UeUY>
 
 ### Otros exchanges: <https://coinmarketcap.com/exchanges/volume/24-hour/all/>
 
 ## Wallets (Monederos)
 
 Coming soon...
-
 
 ## ¿Qué hacer con mis bitcoins?
 
@@ -81,7 +80,6 @@ La biblia de las cryptomonedas. Listado con casi todas las cryptomonedas que exi
 #### CoinDesk
 
 > #### Link: <https://www.coindesk.com>
-
 
 #### The Coin Telegraph
 
