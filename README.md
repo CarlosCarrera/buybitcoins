@@ -94,13 +94,14 @@ La biblia de las cryptomonedas. Listado con casi todas las cryptomonedas que exi
 * **BMC(ESP)**: <https://t.me/joinchat/EVc4eEHHblJLhLdiDDREGg>
 * **BMC(ENG)**: <https://t.me/joinchat/AAAAAD_aw-EA7WBdPGEQMg>
 * **Tokens chat**: <https://t.me/joinchat/CkG9pUI7PW4YVFD_Ql9K0A>
-* **McleroTV*: <https://t.me/mclerotv>
+* **McleroTV**: <https://t.me/mclerotv>
 
 ## Glosario
 
 * **HODL**: No vender, mantener la posición en un valor (parodia de HOLD).
 * **FOMO**: "Fear of missing out". Ansiedad por miedo a perder una oportunidad.
 * **FUD**: "Fear, Uncertainty and Doubt" estrategia para crear falsamente dudas sobre un valor
+* **DYOR**: "Do Your Own Research".
 * **Moon**: Se dice cuando un valor está subiendo mucho.
 * **Shill, Shillear**: Hablar positivamente de un valor por interes propio.
 * **Altcoin**: Cryptomonedas alternativas al Bitcoin.
