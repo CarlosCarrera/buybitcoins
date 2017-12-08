@@ -39,7 +39,7 @@ Una vez tienes Bitcoins puedes acceder a comprar otras cryptomonedas, normalment
 
 ### Bittrex
 
-Es el exchange mas usado para comprar y vender altcoins. 
+Es el exchange mas usado para comprar y vender altcoins. Tiene la mayoria de altcoins actuales.
 
 > ##### Link: <http://bit.ly/2BfU9BG>
 
