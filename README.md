@@ -72,7 +72,7 @@ Casa de apuestas que opera con Bitcoin.
 In progress...
 
 ## ¿De dónde saco información?
-#### CoinMarketCap:
+#### CoinMarketCap
 La biblia de las cryptomonedas. Listado con casi todas las cryptomonedas que existen, con su cotización e información de los proyectos y en qué exchanges comprarlas.
 
 > #### Link: <https://coinmarketcap.com>
