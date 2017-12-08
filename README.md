@@ -27,7 +27,7 @@ Es la segunda opción que hay actualmente, la web no es tan user-friendly y solo
 Tipo	    | 		Coinbase    | Kraken
 ------------- | ------------- | -------------
 Transferencia (2-3 dias)  | 1.49% 	| 0.26%
-Visa (instantaneo) | 3,99%	| ----
+Visa (instantaneo) | 3.99%	| ----
 
 > NOTA: Para comprar por transferencia, tendrás que hacer una transferencia a una cuenta que te especifica el exchange. Una vez llega el dinero a la cuenta del exchange, tendrás saldo disponible para comprar Bitcoins al precio en el que esté en ese momento. La compra no se hace al instante, la tienes que hacer tu!
 
