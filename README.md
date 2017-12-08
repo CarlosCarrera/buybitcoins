@@ -35,15 +35,27 @@ Visa (instantaneo) | 3,99%	| ----
 
 ## Exchanges Altcoins
 
-Una vez tienes Bitcoins puedes acceder a comprar otras cryptomonedas, normalmente llamadas Altcoins. 
+Una vez tienes Bitcoins puedes acceder a comprar otras cryptomonedas, normalmente llamadas Altcoins. Estos exchanges suelen operar solo con Bitcoin, Ethereum y USDT, eso quiere decir que para comprar altcoins en estos exchanges deberás enviar Bitcoin, Ethereum, o USDT al wallet de tu cuenta de dicho exchange. Una vez tengas saldo disponible, podrás acceder a comprar cualquier cryptomoneda que se venda. Igualmente, para vender Bitcoin y recibir Euros, tendrás que volver a enviar los Bitcoins a Coinbase o Kraken y una vez allí venderlos.
 
 ### Bitrex
+
+Es el exchange mas usado para comprar y vender altcoins. 
 
 > ##### Link: <http://bit.ly/2BfU9BG>
 
 ### Binance
 
+Exchange chino, está ganando mucha popularidad ya que las monedas que va añadiendo suelen tener un rendimiento muy bueno.
+
 > ##### Link: <http://bit.ly/2AYMdEl>
+
+### Binance
+
+Exchange chino, está ganando mucha popularidad ya que las cryptomonedas chinas que va añadiendo suelen tener un rendimiento muy bueno.
+
+> ##### Link: <http://bit.ly/2AYMdEl>
+
+### Otros exchanges: <https://coinmarketcap.com/exchanges/volume/24-hour/all/>
 
 ## Wallets (Monederos)
 
@@ -95,10 +107,10 @@ La biblia de las cryptomonedas. Listado con casi todas las cryptomonedas que exi
 * **Shill, Shillear**: Hablar positivamente de un valor por interes propio.
 * **Altcoin**: Cryptomonedas alternativas al Bitcoin.
 * **ICO**: "Initial Coin Offering" el equivalente a una IPO, cuando una moneda nueva sale al mercado.
-* **Whale**: Cuando una persona tiene much
-* **Sell/Buy Wall**:
-* **Bearish market**:
-* **Bullish market**:
-* 
+* **Whale**: Cuando una persona tiene mucha cantidad de un valor y puede llegar a manipular su precio.
+* **Sell/Buy Wall**: Orden de venta/compra de mucha cantidad que ponen y quitan las whales para controlar el precio.
+* **Bearish market**: Cuando el mercado está en tendencia bajista.
+* **Bullish market**: Cuando el mercado está en tendencia alcista.
+
 
 
