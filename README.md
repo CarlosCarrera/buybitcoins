@@ -35,9 +35,9 @@ Visa (instantaneo) | 3.99%	| ----
 
 ## Exchanges Altcoins
 
-Una vez tienes Bitcoins puedes acceder a comprar otras cryptomonedas, normalmente llamadas Altcoins. Estos exchanges suelen operar solo con Bitcoin, Ethereum y USDT, eso quiere decir que para comprar altcoins en estos exchanges deberás enviar Bitcoin, Ethereum, o USDT al wallet de tu cuenta de dicho exchange. Una vez tengas saldo disponible, podrás acceder a comprar cualquier cryptomoneda que se venda. Igualmente, para vender Bitcoin y recibir Euros, tendrás que volver a enviar los Bitcoins a Coinbase o Kraken y una vez allí venderlos.
+Una vez tienes Bitcoins puedes acceder a comprar otras cryptomonedas, normalmente llamadas Altcoins. Estos exchanges suelen operar solo con **Bitcoin**, **Ethereum** y **USDT**, eso quiere decir que para comprar altcoins en estos exchanges deberás enviar **Bitcoin**, **Ethereum**, o **USDT** al wallet de tu cuenta de dicho exchange. Una vez tengas saldo disponible, podrás acceder a comprar cualquier cryptomoneda que se venda. Igualmente, para vender Bitcoin y recibir Euros, tendrás que volver a enviar los Bitcoins a Coinbase o Kraken y una vez allí venderlos.
 
-### Bitrex
+### Bittrex
 
 Es el exchange mas usado para comprar y vender altcoins. 
 
