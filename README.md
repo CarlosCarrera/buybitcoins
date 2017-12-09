@@ -106,6 +106,7 @@ La biblia de las criptomonedas. Listado con casi todas las criptomonedas que exi
 * **FOMO**: "Fear of missing out". Ansiedad por miedo a perder una oportunidad.
 * **FUD**: "Fear, Uncertainty and Doubt" estrategia para crear falsamente dudas sobre un valor
 * **DYOR**: "Do Your Own Research".
+* **ATH**: "All time high", máximo histórico de un valor.
 * **Moon**: Se dice cuando un valor está subiendo mucho.
 * **Shill, Shillear**: Hablar positivamente de un valor por interés propio.
 * **Altcoin**: Criptomonedas alternativas al Bitcoin.
