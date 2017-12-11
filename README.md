@@ -13,7 +13,7 @@ Para comprar Bitcoins, actualmente hay varias alternativas. Estas webs venden bi
 Es la mas popular. En Coinbase puedes comprar Bitcoin, Litecoin y Ethereum. Antes de comprar deberás identificarte subiendo una foto de un carnet de identidad. Se puede comprar por transferencia bancaria y pago con visa. Coinbase tiene una aplicación móvil en la que puedes realizar operaciones y ver tu saldo actual.
 
 > ##### Link: <http://bit.ly/2AERaQc>
->  **NOTA:** Link de referido, si compras 100€ te dan 8€ mas en BTC.
+>  **NOTA:** Link de referido, si compras 100€ te dan 8€ mas en BTC. (Y a mi tambien, a ver si os creeis que hago esto por amor al arte)
 > 
 > **iOS:** <http://apple.co/2y81MEw>
 > 
